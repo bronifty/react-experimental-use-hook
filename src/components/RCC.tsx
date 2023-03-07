@@ -1,4 +1,5 @@
 import React from "react";
+("use client");
 
 const RCC = ({ serverComponent }) => {
   return (
